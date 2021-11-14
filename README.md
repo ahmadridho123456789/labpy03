@@ -175,29 +175,29 @@ C.jika kondisi a>b tidak terpenuhui(atau b<=a),maka 2 kadidat bilangan terbesar 
 
 ### Flowchart Program
 #### berikut flowchart dari program latihan 1, untuk menampilkan n bilangan acak yang lebih kecil dari 0.5
-![Gambar1](screnshot/ss1.png)
+![Gambar1](labpy03/screnshot/ss1.png)
 ### berikut gambaran script programnya
-![Gambar2](screnshot/ss2.png)
+![Gambar2](/labpy03/screnshot/ss2.png)
 ### dan berikut hasil programnya saat di jalankan
-![Gambar3](screnshot/ss3.png)
+![Gambar3](labpy03/screnshot/ss3.png)
 # Latihan 2
 
 ## Program Untuk Menampilkan n Bilangan Acak Yang Lebih Kecil Dari 0.5
 
 ### Flowchart Program
 #### berikut flowchart dari program latihan 1, untuk menampilkan n bilangan acak yang lebih kecil dari 0.5
-![Gambar4](screnshot/ss6.png)
+![Gambar4](labpy03/screnshot/ss6.png)
 #### berikut gambaran programnya
-![Gambar5](screnshot/ss4.png)
+![Gambar5](/labpy03/screnshot/ss4.png)
 ### dan berikiut hasil programnya setealh di jalankan
-![Gambar6](screnshot/ss5.png)
+![Gambar6](labpy03/screnshot/ss5.png)
 # Program 1
 ## Program untuk menghitung laba investasi
 
 ### Flowchart program
 #### berikut flowchart dari program menghitung laba investasi
 
-![Gambar7](screnshot/ss7.png)
+![Gambar7](labpy03/screnshot/ss7.png)
 ### Penjelasan alur program
 
 print("Laba Investasi") - adalah untuk menampilkan judul
@@ -231,8 +231,8 @@ z=(a+b+c+d+e+f+g+h) - Z untuk data yang berisi hasil penjumlahan laba dari bulan
 print("Jumlah Laba Selama 8 Bulan: ",z) - menampilkan hasil dari jumlah laba
 
 #### berikut gambaran programnya
-![Gambar8](screnshot/ss8.png)
+![Gambar8](labpy03/screnshot/ss8.png)
 
 #### berikut hasil dari program setelah dijalankan
-![Gambar9](screnshot/ss9.png)
+![Gambar9](labpy03/screnshot/ss9.png)
 
