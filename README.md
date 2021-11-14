@@ -105,7 +105,7 @@ Masukan program untuk menampilkan status gaji karyawan seperti berikut
 #### Berikut contoh programnya
 
 
-![Gambar 3](labpy02/screnshot/ss3_module3.png)
+![Gambar 3](labpy02/screnshot/ss3_modul3.png)
 #### setelah di running maka hasilnya akan seperti di bawah ini
 
 
@@ -160,7 +160,7 @@ C.jika kondisi a>b tidak terpenuhui(atau b<=a),maka 2 kadidat bilangan terbesar 
 
  
  ![Gambar 9](labpy02/screnshot/ss8_module.png)
- 
+
 
 
 
