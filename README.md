@@ -1,5 +1,5 @@
 | Nama | kelas | Nim | Matkul |
-| -- | --- | ---- | ----------- |
+| -- | ---   | ---- | ----------- |
 | AHMAD RIDHO |  TI.21.C.1 | 312110279 | Bahasa Pemrograman |
 # modul praktikum 2
 ## latihan1
