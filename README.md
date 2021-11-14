@@ -150,11 +150,11 @@ C.jika kondisi a>b tidak terpenuhui(atau b<=a),maka 2 kadidat bilangan terbesar 
  ## bisa di perhatikan flowchart berikut
 
 
- ![Gambar 7](labpy02/screnshot/flowchart_latihan2.png)
+ ![Gambar 7](labpy02//flowchart_latihan2.png)
 
  ## dan berikut contoh program nya
 
- ! [Gambar 8](labpy02/screnshot/ss7_module.png)
+ ![Gambar 8](labpy02/screnshot/ss7_module.png)
 
  ## dan setelah di run maka akan menghasilkan seperti di bawah ini
 
