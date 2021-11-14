@@ -1,6 +1,6 @@
 | Nama | kelas | Nim | Matkul |
 | -- | --- | ---- | ----------- |
-| AHMAD RIDHO | TI.A2.20 | 312110279 | Bahasa Pemrograman |
+| AHMAD RIDHO |  TI.21.C. | 312110279 | Bahasa Pemrograman |
 # modul praktikum 2
 ## latihan1
 ## Program menentukann nilai akhir
