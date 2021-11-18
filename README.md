@@ -1,6 +1,52 @@
 | Nama | kelas | Nim | Matkul |
 | -- | ---   | ---- | ----------- |
 | AHMAD RIDHO |  TI.21.C.1 | 312110279 | Bahasa Pemrograman |
+# modul praktikum 1
+## latihan1
+ Ini adalah code pyhton saya\
+Sangat sederhana, hanya menggunakan if dan elif.\
+Apabila input selain angka maka program akan berhenti.
+ program menentukan bilangan terbesar dar 2 buah inputan<p>
+ di bawah in merupakan source code nya
+
+![Gambar1](labpy01/screnshot/ss1.png)
+
+dan setelah di jalankan maka hasil nya akan seperti ini
+
+![Gambar2](labpy01/screnshot/ss2.png)
+
+## latihan 2
+### program mengurutkan data 
+
+di bawah ini merupakan code nya
+
+!![Gambar](labpy01/screnshot/ss3.png)
+
+dan setelah di jalankan code nya maka akan menghasilkan
+
+![Gambar](labpy01/screnshot/ss4.png)
+
+# latihan1 lab3
+### Buat program dengan perulangan bertingkat (nested) for
+
+![gambar](labpy01/screnshot/ss5.png)
+
+#### dan ini setelah di jalankan
+
+
+![gambar](labpy01/screnshot/ss6.png)
+
+## latihan2 lab3
+### membuat program yg menampilkan bilangan acak dari 0.5
+
+
+![gambar](labpy01/screnshot/ss7.png)
+
+
+### dan ini hasil nya setelah di jalankan
+![gambar](labpy01/screnshot/ss8.png)]
+
+
 # modul praktikum 2
 ## latihan1
 ## Program menentukann nilai akhir
